@@ -1,0 +1,13 @@
+/* line 1, ../sass/Master.scss */
+body {
+  padding: 0px;
+  margin: 0px;
+}
+/* line 4, ../sass/Master.scss */
+body div.plain {
+  background: #FEF;
+}
+/* line 6, ../sass/Master.scss */
+body div.plain .text {
+  padding: 5px;
+}
